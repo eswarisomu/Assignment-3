@@ -17,32 +17,32 @@ for real-time data monitoring.
 Real-Time Data Monitoring: Collects temperature and humidity data using a DHT11 sensor. <br/>
 Statistical Calculations: Calculates and stores the minimum, maximum, and average values of the collected data. <br/>
 Persistent Storage: Stores calculated statistics in EEPROM to ensure data persistence.  <br/>
-Alert Notifications: Sends Telegram alerts when temperature thresholds are exceeded.
-Web Interface: Displays real-time data and statistical calculations on a user-friendly web page.
+Alert Notifications: Sends Telegram alerts when temperature thresholds are exceeded. <br/>
+Web Interface: Displays real-time data and statistical calculations on a user-friendly web page. <br/>
 
 ## Components Used
-Microcontroller: NodeMCU (ESP8266)
-Sensor: DHT22 for temperature and humidity measurements
-Storage: EEPROM for storing statistical data
-Wi-Fi Module: Integrated in the NodeMCU for connecting to the internet
-Output:
-      Telegram for sending notifications
-      Web interface hosted on the NodeMCU for displaying data
+Microcontroller: NodeMCU (ESP8266) <br/>
+Sensor: DHT22 for temperature and humidity measurements <br/>
+Storage: EEPROM for storing statistical data <br/>
+Wi-Fi Module: Integrated in the NodeMCU for connecting to the internet <br/>
+Output: <br/>
+      Telegram for sending notifications <br/>
+      Web interface hosted on the NodeMCU for displaying data <br/>
 
 ## Installation
 ## Hardware Requirements
-NodeMCU (ESP8266)
-DHT22 Sensor
-Jumper Wires
+NodeMCU (ESP8266) <br/>
+DHT22 Sensor <br/>
+Jumper Wires <br/>
 
 ## Software Requirements
-Arduino IDE
-ESP8266 Board Package installed in Arduino IDE
-Libraries:
-DHT.h
-EEPROM.h
-ESP8266WiFi.h
-UniversalTelegramBot.h
+Arduino IDE <br/>
+ESP8266 Board Package installed in Arduino IDE <br/>
+Libraries: <br/>
+DHT.h <br/> 
+EEPROM.h <br/>
+ESP8266WiFi.h <br/>
+UniversalTelegramBot.h <br/>
 
 ## Presentation
 
