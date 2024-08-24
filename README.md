@@ -22,7 +22,7 @@ Web Interface: Displays real-time data and statistical calculations on a user-fr
 
 ## Components Used
 Microcontroller: NodeMCU (ESP8266) <br/>
-Sensor: DHT22 for temperature and humidity measurements <br/>
+Sensor: DHT11 for temperature and humidity measurements <br/>
 Storage: EEPROM for storing statistical data <br/>
 Wi-Fi Module: Integrated in the NodeMCU for connecting to the internet <br/>
 Output: <br/>
@@ -39,10 +39,10 @@ Output: <br/>
 Arduino IDE <br/>
 ESP8266 Board Package installed in Arduino IDE <br/>
 Libraries: <br/>
-DHT.h <br/> 
-EEPROM.h <br/>
-ESP8266WiFi.h <br/>
-UniversalTelegramBot.h <br/>
+&nbsp; DHT.h <br/> 
+&nbsp; EEPROM.h <br/>
+&nbsp; ESP8266WiFi.h <br/>
+&nbsp; UniversalTelegramBot.h <br/>
 
 ## Presentation
 
@@ -50,4 +50,4 @@ You can watch our presentation on YouTube via the following link:(https://www.yo
 
 ## Arduino Code
 
-The Arduino code used for the project has been uploaded and can be found [here](https://github.com/eswarisomu/ASIGNMENT-2---STIJ5014-DISTRIBUTED-SYSTEMS/blob/main/Assignment2.ino).
+The Arduino code used for the project has been uploaded and can be found [here](https://github.com/eswarisomu/Assignment-3/blob/main/TemperatureHumidityAndHeatMonitoring.ino).
