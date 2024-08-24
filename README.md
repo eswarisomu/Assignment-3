@@ -26,14 +26,14 @@ Sensor: DHT22 for temperature and humidity measurements <br/>
 Storage: EEPROM for storing statistical data <br/>
 Wi-Fi Module: Integrated in the NodeMCU for connecting to the internet <br/>
 Output: <br/>
-      Telegram for sending notifications <br/>
-      Web interface hosted on the NodeMCU for displaying data <br/>
+&nbsp; &nbsp; Telegram for sending notifications <br/>
+&nbsp; &nbsp; Web interface hosted on the NodeMCU for displaying data <br/>
 
 ## Installation
 ## Hardware Requirements
-NodeMCU (ESP8266) <br/>
-DHT22 Sensor <br/>
-Jumper Wires <br/>
+&nbsp; NodeMCU (ESP8266) <br/>
+&nbsp; DHT11 Sensor <br/>
+&nbsp; Jumper Wires <br/>
 
 ## Software Requirements
 Arduino IDE <br/>
