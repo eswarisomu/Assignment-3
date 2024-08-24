@@ -14,9 +14,9 @@ and other components. The system collects temperature and humidity data, calcula
 for real-time data monitoring.
 
 ## Features
-Real-Time Data Monitoring: Collects temperature and humidity data using a DHT11 sensor.
-Statistical Calculations: Calculates and stores the minimum, maximum, and average values of the collected data.
-Persistent Storage: Stores calculated statistics in EEPROM to ensure data persistence.
+Real-Time Data Monitoring: Collects temperature and humidity data using a DHT11 sensor. <br/>
+Statistical Calculations: Calculates and stores the minimum, maximum, and average values of the collected data. <br/>
+Persistent Storage: Stores calculated statistics in EEPROM to ensure data persistence.  <br/>
 Alert Notifications: Sends Telegram alerts when temperature thresholds are exceeded.
 Web Interface: Displays real-time data and statistical calculations on a user-friendly web page.
 
@@ -30,12 +30,12 @@ Output:
       Web interface hosted on the NodeMCU for displaying data
 
 ## Installation
-# Hardware Requirements
+## Hardware Requirements
 NodeMCU (ESP8266)
 DHT22 Sensor
 Jumper Wires
 
-# Software Requirements
+## Software Requirements
 Arduino IDE
 ESP8266 Board Package installed in Arduino IDE
 Libraries:
