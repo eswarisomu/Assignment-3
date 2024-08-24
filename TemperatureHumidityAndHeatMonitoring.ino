@@ -11,12 +11,12 @@
 const int DHTPin = 5;  // DHT sensor pin connected to GPIO5 (D1)
 
 // Wi-Fi credentials
-const char* ssid = "S.R.ESWARI";
-const char* password = "somurani";
+const char* ssid = "Your_SSID"; // WiFi SSID
+const char* password = "Your_PASSWORD"; // WiFi password
 
 // Telegram Bot Token and Chat ID
-String botToken = "7129998825:AAHfwaM7tkVbBFgTI5TRSAw5HfF3gKHpzQs";  // Replace with your bot token
-String chatID = "1770612402";  // Replace with your chat ID
+String botToken = "Your_Bot_Token";  // Replace with your bot token
+String chatID = "Your_Chat_ID";  // Replace with your chat ID
 
 // Declare the web server running on port 80 (default HTTP port)
 ESP8266WebServer server(80);
