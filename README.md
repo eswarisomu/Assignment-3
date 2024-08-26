@@ -46,7 +46,7 @@ Libraries: <br/>
 
 ## Presentation
 
-You can watch our presentation on YouTube via the following link:(https://www.youtube.com/watch?v=8fTk1dIVOdM)
+You can watch our presentation on YouTube via the following link:(https://www.youtube.com/watch?v=oLqvX7enltY)
 
 ## Arduino Code
 
